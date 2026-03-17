@@ -32,5 +32,20 @@
     "product_id_regex": "*",
     "excluded_product_ids": [],
     "icon_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/SmartTube/2305/icon_st.png"
+  },
+  {
+    "package_name": "com.netflix.mediaclient",
+    "app_name": "Netflix",
+    "version_code": 63109,
+    "version_name": "9.22.1 build 3 63109",
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/Netflix/63109/netflix-9-22-1-build-3-63109.apk",
+    "sha256_checksum": "8f4415b5e03449d540aea84773190ded95e3afd39eb23a642bef17f40b6d59eb",
+    "is_force_update": false,
+    "is_downgrade_allowed": false,
+    "release_notes": "Automated release for Netflix",
+    "publish_date": "2026-03-17T05:40:37Z",
+    "product_ids": [],
+    "product_id_regex": "*",
+    "excluded_product_ids": []
   }
 ]

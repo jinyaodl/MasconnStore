@@ -1,0 +1,36 @@
+[
+  {
+    "package_name": "com.ff.smartupdate",
+    "app_name": "TvManager",
+    "version_code": 188,
+    "version_name": "2.0.0",
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/1.0/tvmanager1.0.apk",
+    "sha256_checksum": "86c4bb2177f87d5bd572bb514cb87c6c33d4a294f36d068f1d4e9daf1c0a82db",
+    "is_force_update": false,
+    "is_downgrade_allowed": false,
+    "release_notes": "Initial release of TvManager.",
+    "publish_date": "2026-03-16T13:04:46Z",
+    "product_ids": [
+      "z1_8052"
+    ],
+    "product_id_regex": null,
+    "excluded_product_ids": []
+  },
+  {
+    "package_name": "org.smarttube.beta",
+    "app_name": "SmartTube",
+    "version_code": 2305,
+    "version_name": "31.15",
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/SmartTube/2305/SmartTube_beta_31.15_universal.apk",
+    "sha256_checksum": "93242b9f8fb39c76a7c23f96270a695f9d973ab601957f9ca98a4dc38a225d0a",
+    "is_force_update": false,
+    "is_downgrade_allowed": false,
+    "release_notes": "Automated release for SmartTube",
+    "publish_date": "2026-03-17T00:42:21Z",
+    "product_ids": [
+      "z1_8052"
+    ],
+    "product_id_regex": null,
+    "excluded_product_ids": []
+  }
+]

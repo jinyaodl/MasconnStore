@@ -1,23 +1,5 @@
 [
   {
-    "package_name": "com.ff.smartupdate",
-    "app_name": "TvManager",
-    "version_code": 188,
-    "version_name": "2.0.0",
-    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/188/tvmanager1.0.apk",
-    "sha256_checksum": "86c4bb2177f87d5bd572bb514cb87c6c33d4a294f36d068f1d4e9daf1c0a82db",
-    "is_force_update": false,
-    "is_downgrade_allowed": false,
-    "release_notes": "Initial release of TvManager.",
-    "publish_date": "2026-03-17T00:52:32Z",
-    "product_ids": [
-      "z1_8052"
-    ],
-    "product_id_regex": null,
-    "excluded_product_ids": [],
-    "icon_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/188/icon.png"
-  },
-  {
     "package_name": "org.smarttube.beta",
     "app_name": "SmartTube",
     "version_code": 2305,
@@ -29,7 +11,7 @@
     "release_notes": "Automated release for SmartTube",
     "publish_date": "2026-03-17T00:42:21Z",
     "product_ids": [],
-    "product_id_regex": "*",
+    "product_id_regex": ".*",
     "excluded_product_ids": [],
     "icon_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/SmartTube/2305/icon_st.png"
   },
@@ -45,7 +27,7 @@
     "release_notes": "Automated release for Netflix",
     "publish_date": "2026-03-17T05:40:37Z",
     "product_ids": [],
-    "product_id_regex": "*",
+    "product_id_regex": ".*",
     "excluded_product_ids": []
   }
 ]

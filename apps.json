@@ -28,6 +28,7 @@
     "publish_date": "2026-03-17T05:40:37Z",
     "product_ids": [],
     "product_id_regex": ".*",
-    "excluded_product_ids": []
+    "excluded_product_ids": [],
+    "icon_url": "https://github.com/jinyaodl/iwantacake/releases/download/app%2FNetflix%2F63109/netflix_icon.png"
   }
 ]

@@ -45,7 +45,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": ""
+    "icon_url": "https://github.com/61160306/storeupdate/releases/download/app%2FChrome%2F362612100/chrome.jpeg"
   },
   {
     "package_name": "com.hbo.hbonow",
@@ -61,14 +61,14 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": ""
+    "icon_url": "https://github.com/61160306/storeupdate/releases/download/app%2FHBOMax%2F35389866/hbomax.jpeg"
   },
   {
     "package_name": "com.android.mgstv",
     "app_name": "Xuper",
     "version_code": 50103,
     "version_name": "5.1.3",
-    "download_url": "https://github.com/61160306/storeupdate/releases/download/app%2FXuper%2F50103/Xuper_50103.apk",
+    "download_url": "https://github.com/61160306/storeupdate/releases/download/app%2FXuper%2F50103/mgstvv5.1.3.apk",
     "sha256_checksum": "d1f68849e95ff80878ef5dd392a0a440c48abd6f3364f8e7323f33076c5ecab3",
     "is_force_update": false,
     "is_downgrade_allowed": false,
@@ -77,6 +77,6 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/61160306/storeupdate/releases/download/app%2FXuper%2F50103/icon_xuper.png"
+    "icon_url": "https://github.com/61160306/storeupdate/releases/download/app%2FXuper%2F50103/magistv.jpeg"
   }
 ]
